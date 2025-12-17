@@ -1,4 +1,5 @@
 === CGPA Calculator ===
+
 Contributors: internetresearcher
 Tags: cgpa, calculator, education, students, sgpa
 Requires at least: 5.0
